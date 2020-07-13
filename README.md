@@ -1,5 +1,5 @@
 # Backup
-<h5>Бэкап вашего проекта прямо на почту<h5>
+<h5>Бэкап вашего проекта прямо на почту</h5>
 
 Project backup to mail.
 To work, you need installed node.js and the modules "archiver", "fs-extra", "nodemailer". Departure comes from Yandex mail. You must write your login@yandex.ru on line 31 and 37 and the password on 32
